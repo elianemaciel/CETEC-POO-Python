@@ -23,7 +23,7 @@ Este projeto exemplifica o uso de **orientação a objetos (OO) em Python**, inc
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/ExemploBancoTatu.git
+git clone https://github.com/elianemaciel/ExemploBancoTatu.git
 cd ExemploBancoTatu
 ```
 ### Criar e Ativar o Ambiente Virtual
