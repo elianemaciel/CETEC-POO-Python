@@ -1,6 +1,8 @@
 
 # 🏦 ExemploBancoTatu
 
+Este repositório contém um exercício aplicado em aula para a turma do curso técnico em Informática no CETEC.
+
 ## 📖 Descrição
 O **Banco Tatu**, moderno e eficiente, precisa de um sistema para gerenciar as contas correntes de seus clientes. Cada conta pode ter um ou mais titulares e permite operações de saque e depósito, garantindo que os clientes não possam sacar além do saldo disponível.
 
