@@ -15,13 +15,12 @@ Este projeto exemplifica o uso de **orientação a objetos (OO) em Python**, inc
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** Python 3.10+
 - **Paradigma:** Programação Orientada a Objetos (POO)
-- **Testes:** `unittest` (para garantir o funcionamento das operações)
 
 ---
 
 ## 🚀 Como Executar o Projeto
 
-### 1️⃣ Clonar o Repositório
+### Clonar o Repositório
 ```bash
 git clone https://github.com/elianemaciel/ExemploBancoTatu.git
 cd ExemploBancoTatu
@@ -31,7 +30,7 @@ cd ExemploBancoTatu
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 ```
-3️⃣ Executar o Programa
+### Executar o Programa
 ```
 python main.py
 ```
