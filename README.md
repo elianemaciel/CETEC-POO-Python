@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img width="200px" src="Logo_CETEC.png">
+</div>
+
+
 # 🏦 ExemploBancoTatu
 
 Este repositório contém um exercício aplicado em aula para a turma do curso técnico em Informática no CETEC.
